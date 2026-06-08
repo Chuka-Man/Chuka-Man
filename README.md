@@ -1,4 +1,4 @@
-# Данил 👋
+# Данил 
 
 Учусь на Frontend Developer.
 
